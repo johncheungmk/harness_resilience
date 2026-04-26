@@ -10,7 +10,7 @@ The paper focuses on how engineering teams can continue safe and effective work 
 **Author:** John Cheung  
 **Affiliation:** College of Professional and Continuing Education
 
-This repository contains the LaTeX source and PDF version of the paper.
+[Harness Resilience (PDF)](https://github.com/johncheungmk/harness_resilience/blob/main/harness_resilience.pdf)
 
 ## Motivation
 
