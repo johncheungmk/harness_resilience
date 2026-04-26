@@ -84,24 +84,6 @@ Engineering teams can improve harness resilience by:
 - Keeping a local or open-source fallback workflow
 - Including harness continuity in procurement and enterprise risk planning
 
-## Suggested Repository Structure
-
-```text
-.
-├── README.md
-├── paper.tex
-├── paper.pdf
-├── templates/
-│   ├── AGENTS.md
-│   ├── harness-runbook.md
-│   └── fallback-checklist.md
-├── examples/
-│   ├── golden-tasks/
-│   └── failure-injection/
-└── metrics/
-    └── kpi-definitions.md
-```
-
 ## Potential Use Cases
 
 This work may be useful for:
